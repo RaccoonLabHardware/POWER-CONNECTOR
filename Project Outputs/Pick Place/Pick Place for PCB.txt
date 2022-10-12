@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\altium workspace\RCL\POWER-CONNECTOR\Project Outputs\Pick Place\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12.10.22
+Time:       15:22
+Revision:   017fa2d799cbb638d956339147e43586ced3e41a
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Layer    Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                       
+IN         XT30PW-M              TopLayer XT30PW-M                  134.9835     271.1251     270      ""                                                                                                                                
+CAN4       SM04B-GHS-TB(LF)(SN)- TopLayer JST_SM04B-GHS-TB(LF)(SN)- 135.1250     260.2000     0        "Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"                                                           
+CAN3       SM04B-GHS-TB(LF)(SN)- TopLayer JST_SM04B-GHS-TB(LF)(SN)- 145.6000     281.7250     180      "Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"                                                           
+CAN1       SM04B-GHS-TB(LF)(SN)- TopLayer JST_SM04B-GHS-TB(LF)(SN)- 135.3000     281.8250     180      "Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"                                                           
+CAN2       SM04B-GHS-TB(LF)(SN)- TopLayer JST_SM04B-GHS-TB(LF)(SN)- 145.7000     260.1750     0        "Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"                                                           
+CAN-B1     502585-0670           TopLayer MOLEX_502585-0670         147.8500     271.2000     90       "1.50mm Pitch, CLIK-Mate PCB Receptacle, Single Row, Surface Mount, Right-Angle, Tin Plating, Positive Lock, 6 Circuits, Natural" 
