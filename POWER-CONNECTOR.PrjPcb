@@ -232,7 +232,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Version
-Value=2.5
+Value=1.0
 
 [Configuration1]
 Name=Sources
