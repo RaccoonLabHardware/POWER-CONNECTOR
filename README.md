@@ -1,10 +1,8 @@
 # Power connector
 
-<img src="doc/view.png" alt="drawing" height="300"/>
-
-<img src="doc/view-top.png" alt="drawing" height="300"/>
-
-<img src="doc/view-bottom.png" alt="drawing" height="300"/>
+| View | Top | Bottom |
+| ---- | --- | ------ |
+| <img src="doc/view.png" alt="drawing" height="300"/> | <img src="doc/view-top.png" alt="drawing" height="300"/> | <img src="doc/view-bottom.png" alt="drawing" height="300"/> |
 
 ## Doc
 
