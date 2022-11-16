@@ -1,4 +1,4 @@
-# DroneCAN/Cyphal kNode
+# Power connector
 
 <img src="doc/view.png" alt="drawing" height="300"/>
 
@@ -8,7 +8,7 @@
 
 ## Doc
 
-- [User manual](https://innopolisaero.github.io/inno_uavcan_node_binaries/guide/gps_mag_baro/)
+- [User manual](https://raccoonlabdev.github.io/docs/guide/power/)
 - [Hardware docs](doc/doc.pdf)
 
 ## TERMS OF USAGE / LICENCE
