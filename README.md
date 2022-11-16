@@ -2,7 +2,7 @@
 
 | View | Top | Bottom |
 | ---- | --- | ------ |
-| <img src="doc/view.png" alt="drawing" height="300"/> | <img src="doc/view-top.png" alt="drawing" height="300"/> | <img src="doc/view-bottom.png" alt="drawing" height="300"/> |
+| <img src="doc/view.png" alt="drawing"> | <img src="doc/view-top.png" alt="drawing"/> | <img src="doc/view-bottom.png" alt="drawing"/> |
 
 ## Doc
 
