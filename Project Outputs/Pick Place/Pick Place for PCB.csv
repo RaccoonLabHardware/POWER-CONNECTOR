@@ -4,13 +4,18 @@ C:\altium workspace\RCL\POWER-CONNECTOR\Project Outputs\Pick Place\Pick Place fo
 ========================================================================================================================
 File Design Information:
 
-Date:       18.11.22
-Time:       11:39
-Revision:   33d3949a92fcdd79f9dab5d8ea7e7ee3e769ac99
+Date:       30.08.24
+Time:       12:58
+Revision:   6261d0f960a61f6b94a4e2b1f3ab3408c6f3363d
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R3","RC0603FR-0724KL","TopLayer","J1-0603","138.4000","265.4000","0","24 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"
+"R2","RC0603FR-0724KL","TopLayer","J1-0603","139.2000","264.1000","0","24 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"
+"Vin","0603-LED-ORANGE","TopLayer","*LEDM1608X80_LTE-C1906R-14(Primary)","142.4000","264.6000","180","Orange 605nm LED Indication - Discrete 2.2V 0603 (1608 Metric)"
+"R1","RC0603FR-07330RL","TopLayer","J1-0603","138.8000","278.4000","0","330 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Thick Film"
+"5V","0603-LED-RED","TopLayer","*LEDM1608X80_LTE-C1906R-14(Primary)","141.6000","278.4000","180","Red 620nm LED Indication - Discrete 2.2V 0603 (1608 Metric)"
 "IN","XT30PW-M","TopLayer","XT30PW-M","134.9835","271.1251","270",""
 "CAN4","SM04B-GHS-TB(LF)(SN)-","TopLayer","JST_SM04B-GHS-TB(LF)(SN)-","135.1250","260.2000","0","Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"
 "CAN3","SM04B-GHS-TB(LF)(SN)-","TopLayer","JST_SM04B-GHS-TB(LF)(SN)-","145.6000","281.7250","180","Connector Header Surface Mount, Right Angle 4 position 0.049 _1.25mm_"
